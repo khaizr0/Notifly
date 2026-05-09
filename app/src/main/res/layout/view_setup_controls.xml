@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="@string/label_system_config"
+        android:textAppearance="@style/TextAppearance.Material3.LabelLarge"
+        android:textColor="?attr/colorOnSurfaceVariant" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        app:cardBackgroundColor="?attr/colorSurfaceVariant"
+        app:cardElevation="0dp"
+        app:shapeAppearanceOverlay="@style/ShapeAppearance.App.MediumComponent"
+        app:strokeWidth="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnPermission"
+                style="@style/Widget.Material3.Button.TextButton"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:gravity="start|center_vertical"
+                android:text="@string/btn_grant_permissions"
+                android:textColor="?attr/colorOnSurface"
+                app:icon="@android:drawable/ic_menu_manage"
+                app:iconTint="?attr/colorOnSurface"
+                app:shapeAppearanceOverlay="@style/ShapeAppearance.App.SmallComponent" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnNotificationAccess"
+                style="@style/Widget.Material3.Button.TextButton"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:gravity="start|center_vertical"
+                android:text="@string/btn_notification_access"
+                android:textColor="?attr/colorOnSurface"
+                app:icon="@android:drawable/ic_popup_reminder"
+                app:iconTint="?attr/colorOnSurface"
+                app:shapeAppearanceOverlay="@style/ShapeAppearance.App.SmallComponent" />
+
+            <include layout="@layout/view_setup_controls_extra" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

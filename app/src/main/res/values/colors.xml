@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Clean Dark Minimalist Theme -->
+    <color name="md_theme_dark_primary">#0A84FF</color> <!-- Premium Modern Blue -->
+    <color name="md_theme_dark_onPrimary">#FFFFFF</color>
+    <color name="md_theme_dark_primaryContainer">#1A406B</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D0E4FF</color>
+    
+    <color name="md_theme_dark_secondary">#5E5CE6</color> <!-- Soft Indigo Accent -->
+    <color name="md_theme_dark_onSecondary">#FFFFFF</color>
+
+    <color name="md_theme_dark_background">#000000</color> <!-- OLED Black -->
+    <color name="md_theme_dark_onBackground">#FFFFFF</color> 
+    
+    <color name="md_theme_dark_surface">#1C1C1E</color> <!-- Dark Charcoal / Elevated Surface -->
+    <color name="md_theme_dark_onSurface">#FFFFFF</color>
+    
+    <color name="md_theme_dark_surfaceVariant">#2C2C2E</color> <!-- Slightly lighter gray for secondary elements -->
+    <color name="md_theme_dark_onSurfaceVariant">#8E8E93</color> <!-- Soft Gray text -->
+    <color name="md_theme_dark_outline">#38383A</color> <!-- Subtle dividers -->
+
+    <!-- Status Colors -->
+    <color name="status_disconnected">#FF453A</color> <!-- Modern Red -->
+    <color name="status_connected">#32D74B</color> <!-- Modern Green -->
+    <color name="status_listening">#FF9F0A</color> <!-- Modern Orange -->
+    <color name="status_connecting">#0A84FF</color> <!-- Modern Blue -->
+</resources>
