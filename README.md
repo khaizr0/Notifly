@@ -1,3 +1,7 @@
+<p align="Left">
+	<img src="https://github.com/user-attachments/assets/94217d53-bc80-4ef6-a0fc-5699b1b2f047" width="100" />
+</p>
+
 # Notifly 🚀
 
 Notifly is an open-source Android application that forwards notifications from one device to another via Bluetooth. It is the perfect solution for receiving phone notifications on other Android devices or tablets.
