@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Notifly</string>
+    <string name="app_name">BLNotifly</string>
     <string name="status_disconnected">Status: Disconnected</string>
     <string name="status_connected">Status: Connected!</string>
     <string name="status_connected_device">Device: %1$s</string>
@@ -31,10 +31,10 @@
     <string name="error_re_enable_notification_access">IMPORTANT: Re-enable Notification Access!</string>
     <string name="notification_no_title">No Title</string>
     <string name="notification_no_content">No Content</string>
-    <string name="service_active_title">Notifly Active</string>
+    <string name="service_active_title">BLNotifly Active</string>
     <string name="service_active_content">Maintaining background Bluetooth connection&#8230;</string>
     <string name="btn_stop_service">Stop Service</string>
     <string name="toast_no_paired_devices_found">No paired devices found</string>
     <string name="label_unknown_device">Unknown Device</string>
-    <string name="test_notification_payload">NOTIF|Notifly|Test Message|Hello from Bluetooth!</string>
+    <string name="test_notification_payload">NOTIF|BLNotifly|Test Message|Hello from Bluetooth!</string>
 </resources>

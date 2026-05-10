@@ -3,10 +3,10 @@ plugins {
 }
 
 android {
-    namespace = "com.khaizro.notifly"
+    namespace = "com.khaizro.blnotifly"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.khaizro.notifly"
+        applicationId = "com.khaizro.blnotifly"
         minSdk = 23
         targetSdk = 36
         versionCode = 1

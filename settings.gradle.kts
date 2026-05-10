@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Notifly"
+rootProject.name = "BLNotifly"
 include(":app")

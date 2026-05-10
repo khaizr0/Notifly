@@ -22,7 +22,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Notifly">
+        android:theme="@style/Theme.BLNotifly">
         <activity
             android:name=".MainActivity"
             android:exported="true">
