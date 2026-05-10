@@ -2,9 +2,9 @@
 	<img src="https://github.com/user-attachments/assets/94217d53-bc80-4ef6-a0fc-5699b1b2f047" width="100" />
 </p>
 
-# Notifly 🚀
+# BLNotifly 🚀
 
-Notifly is an open-source Android application that forwards notifications from one device to another via Bluetooth. It is the perfect solution for receiving phone notifications on other Android devices or tablets.
+BLNotifly is an open-source Android application that forwards notifications from one device to another via Bluetooth. It is the perfect solution for receiving phone notifications on other Android devices or tablets.
 
 ## 📺 Demo Video
 [![Notifly Demo](https://img.youtube.com/vi/LHAmIp7WOPs/0.jpg)](https://www.youtube.com/watch?v=LHAmIp7WOPs)
